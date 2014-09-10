@@ -29,7 +29,7 @@ public class Generator {
 	// private static final String DATE_FORMAT_STRING = "yyyy-MM-dd";
 	// private static final String DATETIME_FORMAT_STRING = "yyyy-MM-dd HH:mm:ss";
 
-	private String templateDir = System.getProperty("user.dir") + "/src/com/duoduo/gencode/template";
+	private String templateDir = System.getProperty("user.dir") + "/src/main/java/com/duoduo/gencode/template";
 	private Configuration cfg;
 	private Connection connection;
 

@@ -1,6 +1,7 @@
 *.class
 bin/
 .settings/
+target/
 generated/
 
 # Mobile Tools for Java (J2ME)
